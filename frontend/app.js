@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://bookmark-app-production-98c0.up.railway.app/api';
 let isRegisterMode = false;
 
 function toggleAuthMode() {
